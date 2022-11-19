@@ -1,0 +1,19 @@
+#root {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.bottom-text {
+  color: #888;
+}
+
+.result-image {
+  margin-top: 20px;
+  width: 350px;
+}
