@@ -111,4 +111,7 @@ Giant gas planet thinking about the matrix
 Asimov thinking about end of humanity by robots
   https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-kqSehywziSDFKUQ68Mf0kAru.png?st=2022-11-18T23%3A31%3A16Z&se=2022-11-19T01%3A31%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T02%3A54%3A32Z&ske=2022-11-19T02%3A54%3A32Z&sks=b&skv=2021-08-06&sig=UPNa7X3Ml5QBOr1YDELtlFKcKKhkFR0aNluoj8LAbRM%3D
 
+Gaston Riecan programming music programs in Pascal
+  https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-4DOSP3REjFUd0W9WuPB2zmck.png?st=2022-11-18T23%3A33%3A18Z&se=2022-11-19T01%3A33%3A18Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T04%3A38%3A50Z&ske=2022-11-19T04%3A38%3A50Z&sks=b&skv=2021-08-06&sig=gY3DJDxnnaLG0xPvYkd4SCqcXpBm/oZ5EhYYJ40TC34%3D
+
 */
