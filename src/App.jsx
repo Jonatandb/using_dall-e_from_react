@@ -65,7 +65,7 @@ function App() {
         )}
         {loading && <p>Loading...</p>}
       </div>
-      <a className='bottom-text'>Jonatandb</a>
+      <a className='bottom-text' href="https://github.com/Jonatandb" target="_blank">Jonatandb</a>
     </div>
   )
 }
@@ -102,6 +102,13 @@ Entering the matrix
 Mad guy kicking bottle
   https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-YbVeodS1fqsECs8mOMmoAWvf.png?st=2022-11-18T23%3A08%3A53Z&se=2022-11-19T01%3A08%3A53Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T02%3A38%3A06Z&ske=2022-11-19T02%3A38%3A06Z&sks=b&skv=2021-08-06&sig=zqjOfjDOgoLlVfLyx1toC%2BHxHzVGdCrkRqxGoIvObqo%3D
 
+A wild black hole thinking about an apple falling between tomato crystal bars
+  https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-wDbV93UWFnUlQiM72I2FOFTo.png?st=2022-11-18T23%3A24%3A31Z&se=2022-11-19T01%3A24%3A31Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T04%3A43%3A55Z&ske=2022-11-19T04%3A43%3A55Z&sks=b&skv=2021-08-06&sig=SovpDE/j%2BJjzR6x0mB6Y2%2BFibKRcTHD7wlLtB4j%2BFjk%3D
+
+Giant gas planet thinking about the matrix
+  https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-tUA0MdbdOXR8ClLK2N4y9fYw.png?st=2022-11-18T23%3A30%3A28Z&se=2022-11-19T01%3A30%3A28Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T02%3A26%3A03Z&ske=2022-11-19T02%3A26%3A03Z&sks=b&skv=2021-08-06&sig=tuNktnhuX2OwdM7Qy7Db4NVsOglhkPFLd/be6SXjlSo%3D
+
+Asimov thinking about end of humanity by robots
+  https://oaidalleapiprodscus.blob.core.windows.net/private/org-dD5nIxmpDm6aha55lKsghSGu/user-JWKgO0BkiHbPo41wDfP80Ubl/img-kqSehywziSDFKUQ68Mf0kAru.png?st=2022-11-18T23%3A31%3A16Z&se=2022-11-19T01%3A31%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2022-11-18T02%3A54%3A32Z&ske=2022-11-19T02%3A54%3A32Z&sks=b&skv=2021-08-06&sig=UPNa7X3Ml5QBOr1YDELtlFKcKKhkFR0aNluoj8LAbRM%3D
 
 */
-
